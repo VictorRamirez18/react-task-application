@@ -1,0 +1,9 @@
+npm create vite@latest
+npm install
+npm run dev
+npm run build // para construir
+
+Emmet:
+h1>ul>li>a{enlace $}
+
+Prop drilling: Pasar propiedades entre componentes de diferente nivel
